@@ -1,1 +1,1 @@
-'this is from the git'
+'this is from the GUI'
